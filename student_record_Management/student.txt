@@ -1,0 +1,4 @@
+{'id': 102, 'name': 'kaji sulman', 'age': 22, 'subjects': ['Python', 'java', 'ds']}
+{'id': 1051, 'name': 'Priti mandal', 'age': 23, 'subjects': ['python', 'robotis', 'teching']}
+{'id': 1345, 'name': 'chancal prodhan', 'age': 22, 'subjects': ['OS', 'C', 'Robotic']}
+{'id': 101, 'name': 'Sudeep Biswas', 'age': 23, 'subjects': ['Python', 'AI', 'OS', 'DS']}
